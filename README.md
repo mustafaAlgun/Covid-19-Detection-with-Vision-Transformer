@@ -100,7 +100,7 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Authors
 
-* **Mustafa Algun** - *Master's Student at University of Padua* - [Mustafa Algun]() - **
+* **Mustafa Algun** - *Master's Student at University of Padua*
 
 ## Acknowledgements
 
