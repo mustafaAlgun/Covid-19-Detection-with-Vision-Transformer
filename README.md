@@ -62,8 +62,8 @@ This section should list any major frameworks that you built your project using.
 
 ## Getting Started
 
-This Jupyter Notebook was written in Python & Tensorflow. You can directly download the notebook and run it locally, or you can upload it on Google Collabs and run there (I recommend GPU usage for faster training time).
-OR 
+This Jupyter Notebook was written in Python & Tensorflow. You can directly download the notebook and run it locally, or you can upload it on Google Collabs and run there (I recommend GPU usage for faster training time). <br />
+OR  <br />
 **[Recommended]** You can go to [my Kaggle profile](https://www.kaggle.com/mustafaalgun/covid-detection-with-vision-transformer) and easily copy & edit it. 
 To get a local copy up and running follow these simple example steps.
 
