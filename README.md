@@ -76,12 +76,13 @@ Clone the repo
 ```sh
 git clone https://github.com/mustafaAlgun/Covid-19-Detection-with-Vision-Transformer.git
 ```
+### Dataset
+
+Dataset can be downloaded from [this link](https://data.mendeley.com/datasets/jctsfj2sfn/1).
 
 ## Usage
 
-This is a walk-through Jupyter Notebook. Therefore, following the steps and reading comments will be more than enough for you to replicate the results :) Here are some screenshots from the code & results.
-
-
+This is a walk-through Jupyter Notebook. Therefore, following the steps and reading comments will be more than enough for you to replicate the results :) Mind you, you may need to change the paths of files according to where they are in your local machine. Here are some screenshots from the code & results.
 
 
 ## Roadmap
