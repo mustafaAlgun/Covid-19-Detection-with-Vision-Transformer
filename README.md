@@ -85,6 +85,9 @@ Dataset can be downloaded from [this link](https://data.mendeley.com/datasets/jc
 This is a walk-through Jupyter Notebook. Therefore, following the steps and reading comments will be more than enough for you to replicate the results :) Mind you, you may need to change the paths of files according to where they are in your local machine. Here are some screenshots from the code & results.
 
 
+![Screen Shot](https://github.com/mustafaAlgun/Covid-19-Detection-with-Vision-Transformer/blob/main/Screenshots/gif.gif?raw=true)
+
+
 ## Roadmap
 
 See the [open issues](https://github.com/mustafaAlgun/Covid-19-Detection-with-Vision-Transformer/issues) for a list of proposed features (and known issues).
