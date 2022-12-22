@@ -22,7 +22,6 @@
 ## Table Of Contents
 
 * [About the Project](#about-the-project)
-* [Built With](#built-with)
 * [Getting Started](#getting-started)
   * [Installation](#installation)
 * [Usage](#usage)
@@ -54,11 +53,6 @@ A huge thanks to "https://github.com/givkashi/" for the template of the model.
 * Then, we'll train the model using "Stratified K-Fold" as many competitors in Kaggle do in competitions as see if we get any improvements on our results (check out the link below).
 "https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.StratifiedKFold.html"
 * [Not done yet] We'll try to implement "GRAD Cam" to understand on which parts of the images out attention model focused for prediction (check the Acknowledgements section).
-
-
-## Built With
-
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 ## Getting Started
 
@@ -98,11 +92,6 @@ Contributions are what make the open source community such an amazing place to b
 * If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/mustafaAlgun/Covid-19-Detection-with-Vision-Transformer/issues/new) to discuss it, or directly create a pull request after you edit the *README.md* file with necessary changes.
 * Please make sure you check your spelling and grammar.
 * Create individual PR for each suggestion.
-* Please also read through the [Code Of Conduct](https://github.com/mustafaAlgun/Covid-19-Detection-with-Vision-Transformer/blob/main/CODE_OF_CONDUCT.md) before posting your first idea as well.
-
-### Creating A Pull Request
-
-
 
 ## Authors
 
