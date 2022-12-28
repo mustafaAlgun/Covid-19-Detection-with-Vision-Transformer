@@ -45,7 +45,6 @@ In this project,
 "https://keras.io/"
 "https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/image/ImageDataGenerator"
 * We'll create ViT model from scratch for image classification following the paper "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale" (check the Acknowledgements section).
-A huge thanks to "https://github.com/givkashi/" for the template of the model.
 * After successfully training the model, we'll analyze the running time & memory occupation(complexity).
 * We'll investigate the accuracy and loss of the model.
 * We'll create a confusion matrix and visualize it.
@@ -101,4 +100,3 @@ Contributions are what make the open source community such an amazing place to b
 
 * [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale, Alexey Dosovitskiy](https://arxiv.org/abs/2010.11929)
 * [Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization, Ramprasaath R.](https://arxiv.org/abs/1610.02391?source=post_page---------------------------)
-* [Template ViT Model we built our model on](https://github.com/givkashi/Vision-Transformer-from-scratch)
